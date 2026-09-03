@@ -1,2 +1,5 @@
-# slow-computer-troubleshooting-lab
-A hands-on IT support lab focused on diagnosing and resolving a slow Windows computer.
+# Slow Computer Troubleshooting Lab
+
+## Scenario
+
+A user reports that their Windows computer is running slowly and affecting their productivity.
