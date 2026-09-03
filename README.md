@@ -6,6 +6,10 @@ A user reports that their Windows computer is running slowly and affecting their
 
 ## Step 1: Gather System Information
 
+### System Information Screenshot
+
+![System Information](system-information.png)
+
 I would first check the computer's CPU, RAM, storage type, and storage capacity.
 
 ## Step 2: Check Software Requirements
@@ -14,11 +18,19 @@ I would compare the computer's hardware specifications with the requirements for
 
 ## Step 3: Identify the Bottleneck
 
+### Task Manager Performance
+
+![Task Manager Performance](task-manager-performance.png)
+
 I would use Task Manager to check CPU, memory, disk, and running processes to see which resource is causing the slowdown.
 
 ## Step 4: Findings
 
 Task Manager showed RAM usage at 94%, which indicated that RAM was the performance bottleneck.
+
+### Running Processes
+
+![Task Manager Processes](task-manager-processes.png)
 
 ## Step 5: Troubleshooting Solution
 
