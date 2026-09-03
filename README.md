@@ -12,3 +12,7 @@ The first step is to check the computer's hardware specifications, including:
 * RAM
 * Storage type
 * Storage capacity
+
+### CPU
+
+High CPU usage can cause the system to respond slowly.
