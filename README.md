@@ -38,6 +38,4 @@ I would recommend regular system maintenance, keeping software updated, and teac
 
 ## What I Learned
 
-## What I Learned
-
 This lab taught me that when a computer is running slowly, I should first check computer performance and background processes before making changes.
